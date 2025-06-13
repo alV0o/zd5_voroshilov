@@ -3408,17 +3408,17 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jiami\\.nuget\\packages\\": {},
+    "C:\\Users\\admin\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jiami\\source\\repos\\zd4_voroshilov-zd5\\zd4_voroshilov.Android\\zd4_voroshilov.Android.csproj",
+      "projectUniqueName": "E:\\Xamarin\\zd4_voroshilov-zd5\\zd4_voroshilov.Android\\zd4_voroshilov.Android.csproj",
       "projectName": "zd4_voroshilov.Android",
-      "projectPath": "C:\\Users\\jiami\\source\\repos\\zd4_voroshilov-zd5\\zd4_voroshilov.Android\\zd4_voroshilov.Android.csproj",
-      "packagesPath": "C:\\Users\\jiami\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jiami\\source\\repos\\zd4_voroshilov-zd5\\zd4_voroshilov.Android\\obj\\",
+      "projectPath": "E:\\Xamarin\\zd4_voroshilov-zd5\\zd4_voroshilov.Android\\zd4_voroshilov.Android.csproj",
+      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+      "outputPath": "E:\\Xamarin\\zd4_voroshilov-zd5\\zd4_voroshilov.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "UsingMicrosoftNETSdk": false,
@@ -3426,7 +3426,7 @@
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\jiami\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -3440,8 +3440,8 @@
       "frameworks": {
         "monoandroid13.0": {
           "projectReferences": {
-            "C:\\Users\\jiami\\source\\repos\\zd4_voroshilov-zd5\\zd4_voroshilov\\zd4_voroshilov.csproj": {
-              "projectPath": "C:\\Users\\jiami\\source\\repos\\zd4_voroshilov-zd5\\zd4_voroshilov\\zd4_voroshilov.csproj"
+            "E:\\Xamarin\\zd4_voroshilov-zd5\\zd4_voroshilov\\zd4_voroshilov.csproj": {
+              "projectPath": "E:\\Xamarin\\zd4_voroshilov-zd5\\zd4_voroshilov\\zd4_voroshilov.csproj"
             }
           }
         }
