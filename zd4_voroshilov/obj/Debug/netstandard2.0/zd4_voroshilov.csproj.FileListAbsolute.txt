@@ -1,0 +1,72 @@
+C:\Users\st305a05\OneDrive\Рабочий стол\ворошилов пр 21\Pract\zd4_voroshilov\zd4_voroshilov\bin\Debug\netstandard2.0\zd4_voroshilov.deps.json
+C:\Users\st305a05\OneDrive\Рабочий стол\ворошилов пр 21\Pract\zd4_voroshilov\zd4_voroshilov\bin\Debug\netstandard2.0\zd4_voroshilov.dll
+C:\Users\st305a05\OneDrive\Рабочий стол\ворошилов пр 21\Pract\zd4_voroshilov\zd4_voroshilov\bin\Debug\netstandard2.0\ref\zd4_voroshilov.dll
+C:\Users\st305a05\OneDrive\Рабочий стол\ворошилов пр 21\Pract\zd4_voroshilov\zd4_voroshilov\bin\Debug\netstandard2.0\zd4_voroshilov.pdb
+C:\Users\st305a05\OneDrive\Рабочий стол\ворошилов пр 21\Pract\zd4_voroshilov\zd4_voroshilov\obj\Debug\netstandard2.0\zd4_voroshilov.csproj.AssemblyReference.cache
+C:\Users\st305a05\OneDrive\Рабочий стол\ворошилов пр 21\Pract\zd4_voroshilov\zd4_voroshilov\obj\Debug\netstandard2.0\zd4_voroshilov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\st305a05\OneDrive\Рабочий стол\ворошилов пр 21\Pract\zd4_voroshilov\zd4_voroshilov\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\st305a05\OneDrive\Рабочий стол\ворошилов пр 21\Pract\zd4_voroshilov\zd4_voroshilov\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\st305a05\OneDrive\Рабочий стол\ворошилов пр 21\Pract\zd4_voroshilov\zd4_voroshilov\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\Users\st305a05\OneDrive\Рабочий стол\ворошилов пр 21\Pract\zd4_voroshilov\zd4_voroshilov\obj\Debug\netstandard2.0\zd4_voroshilov.AssemblyInfoInputs.cache
+C:\Users\st305a05\OneDrive\Рабочий стол\ворошилов пр 21\Pract\zd4_voroshilov\zd4_voroshilov\obj\Debug\netstandard2.0\zd4_voroshilov.AssemblyInfo.cs
+C:\Users\st305a05\OneDrive\Рабочий стол\ворошилов пр 21\Pract\zd4_voroshilov\zd4_voroshilov\obj\Debug\netstandard2.0\zd4_voroshilov.csproj.CoreCompileInputs.cache
+C:\Users\st305a05\OneDrive\Рабочий стол\ворошилов пр 21\Pract\zd4_voroshilov\zd4_voroshilov\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\st305a05\OneDrive\Рабочий стол\ворошилов пр 21\Pract\zd4_voroshilov\zd4_voroshilov\obj\Debug\netstandard2.0\zd4_voroshilov.dll
+C:\Users\st305a05\OneDrive\Рабочий стол\ворошилов пр 21\Pract\zd4_voroshilov\zd4_voroshilov\obj\Debug\netstandard2.0\refint\zd4_voroshilov.dll
+C:\Users\st305a05\OneDrive\Рабочий стол\ворошилов пр 21\Pract\zd4_voroshilov\zd4_voroshilov\obj\Debug\netstandard2.0\zd4_voroshilov.pdb
+C:\Users\st305a05\OneDrive\Рабочий стол\ворошилов пр 21\Pract\zd4_voroshilov\zd4_voroshilov\obj\Debug\netstandard2.0\Page2.xaml.g.cs
+D:\ДЗ\РПМ\zd4_voroshilov\zd4_voroshilov\bin\Debug\netstandard2.0\zd4_voroshilov.deps.json
+D:\ДЗ\РПМ\zd4_voroshilov\zd4_voroshilov\bin\Debug\netstandard2.0\zd4_voroshilov.dll
+D:\ДЗ\РПМ\zd4_voroshilov\zd4_voroshilov\bin\Debug\netstandard2.0\ref\zd4_voroshilov.dll
+D:\ДЗ\РПМ\zd4_voroshilov\zd4_voroshilov\bin\Debug\netstandard2.0\zd4_voroshilov.pdb
+D:\ДЗ\РПМ\zd4_voroshilov\zd4_voroshilov\obj\Debug\netstandard2.0\zd4_voroshilov.csproj.AssemblyReference.cache
+D:\ДЗ\РПМ\zd4_voroshilov\zd4_voroshilov\obj\Debug\netstandard2.0\zd4_voroshilov.GeneratedMSBuildEditorConfig.editorconfig
+D:\ДЗ\РПМ\zd4_voroshilov\zd4_voroshilov\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\ДЗ\РПМ\zd4_voroshilov\zd4_voroshilov\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\ДЗ\РПМ\zd4_voroshilov\zd4_voroshilov\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+D:\ДЗ\РПМ\zd4_voroshilov\zd4_voroshilov\obj\Debug\netstandard2.0\Page2.xaml.g.cs
+D:\ДЗ\РПМ\zd4_voroshilov\zd4_voroshilov\obj\Debug\netstandard2.0\zd4_voroshilov.AssemblyInfoInputs.cache
+D:\ДЗ\РПМ\zd4_voroshilov\zd4_voroshilov\obj\Debug\netstandard2.0\zd4_voroshilov.AssemblyInfo.cs
+D:\ДЗ\РПМ\zd4_voroshilov\zd4_voroshilov\obj\Debug\netstandard2.0\zd4_voroshilov.csproj.CoreCompileInputs.cache
+D:\ДЗ\РПМ\zd4_voroshilov\zd4_voroshilov\obj\Debug\netstandard2.0\XamlC.stamp
+D:\ДЗ\РПМ\zd4_voroshilov\zd4_voroshilov\obj\Debug\netstandard2.0\zd4_voroshilov.dll
+D:\ДЗ\РПМ\zd4_voroshilov\zd4_voroshilov\obj\Debug\netstandard2.0\refint\zd4_voroshilov.dll
+D:\ДЗ\РПМ\zd4_voroshilov\zd4_voroshilov\obj\Debug\netstandard2.0\zd4_voroshilov.pdb
+C:\Users\st305a05\OneDrive\Рабочий стол\ворошилов пр 21\Pract\zd4_voroshilov-main\zd4_voroshilov\bin\Debug\netstandard2.0\zd4_voroshilov.deps.json
+C:\Users\st305a05\OneDrive\Рабочий стол\ворошилов пр 21\Pract\zd4_voroshilov-main\zd4_voroshilov\bin\Debug\netstandard2.0\zd4_voroshilov.dll
+C:\Users\st305a05\OneDrive\Рабочий стол\ворошилов пр 21\Pract\zd4_voroshilov-main\zd4_voroshilov\bin\Debug\netstandard2.0\ref\zd4_voroshilov.dll
+C:\Users\st305a05\OneDrive\Рабочий стол\ворошилов пр 21\Pract\zd4_voroshilov-main\zd4_voroshilov\bin\Debug\netstandard2.0\zd4_voroshilov.pdb
+C:\Users\st305a05\OneDrive\Рабочий стол\ворошилов пр 21\Pract\zd4_voroshilov-main\zd4_voroshilov\obj\Debug\netstandard2.0\zd4_voroshilov.csproj.AssemblyReference.cache
+C:\Users\st305a05\OneDrive\Рабочий стол\ворошилов пр 21\Pract\zd4_voroshilov-main\zd4_voroshilov\obj\Debug\netstandard2.0\zd4_voroshilov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\st305a05\OneDrive\Рабочий стол\ворошилов пр 21\Pract\zd4_voroshilov-main\zd4_voroshilov\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\st305a05\OneDrive\Рабочий стол\ворошилов пр 21\Pract\zd4_voroshilov-main\zd4_voroshilov\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\st305a05\OneDrive\Рабочий стол\ворошилов пр 21\Pract\zd4_voroshilov-main\zd4_voroshilov\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\Users\st305a05\OneDrive\Рабочий стол\ворошилов пр 21\Pract\zd4_voroshilov-main\zd4_voroshilov\obj\Debug\netstandard2.0\Page2.xaml.g.cs
+C:\Users\st305a05\OneDrive\Рабочий стол\ворошилов пр 21\Pract\zd4_voroshilov-main\zd4_voroshilov\obj\Debug\netstandard2.0\zd4_voroshilov.AssemblyInfoInputs.cache
+C:\Users\st305a05\OneDrive\Рабочий стол\ворошилов пр 21\Pract\zd4_voroshilov-main\zd4_voroshilov\obj\Debug\netstandard2.0\zd4_voroshilov.AssemblyInfo.cs
+C:\Users\st305a05\OneDrive\Рабочий стол\ворошилов пр 21\Pract\zd4_voroshilov-main\zd4_voroshilov\obj\Debug\netstandard2.0\zd4_voroshilov.csproj.CoreCompileInputs.cache
+C:\Users\st305a05\OneDrive\Рабочий стол\ворошилов пр 21\Pract\zd4_voroshilov-main\zd4_voroshilov\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\st305a05\OneDrive\Рабочий стол\ворошилов пр 21\Pract\zd4_voroshilov-main\zd4_voroshilov\obj\Debug\netstandard2.0\zd4_voroshilov.dll
+C:\Users\st305a05\OneDrive\Рабочий стол\ворошилов пр 21\Pract\zd4_voroshilov-main\zd4_voroshilov\obj\Debug\netstandard2.0\refint\zd4_voroshilov.dll
+C:\Users\st305a05\OneDrive\Рабочий стол\ворошилов пр 21\Pract\zd4_voroshilov-main\zd4_voroshilov\obj\Debug\netstandard2.0\zd4_voroshilov.pdb
+C:\Users\st305a05\OneDrive\Рабочий стол\ворошилов пр 21\Pract\zd4_voroshilov-main\zd4_voroshilov\obj\Debug\netstandard2.0\Welcome.xaml.g.cs
+C:\Users\st305a05\OneDrive\Рабочий стол\ворошилов пр 21\Pract\zd4_voroshilov-main\zd4_voroshilov\obj\Debug\netstandard2.0\styles.css.g.cs
+C:\Users\jiami\source\repos\zd4_voroshilov-zd5\zd4_voroshilov\bin\Debug\netstandard2.0\zd4_voroshilov.deps.json
+C:\Users\jiami\source\repos\zd4_voroshilov-zd5\zd4_voroshilov\bin\Debug\netstandard2.0\zd4_voroshilov.dll
+C:\Users\jiami\source\repos\zd4_voroshilov-zd5\zd4_voroshilov\bin\Debug\netstandard2.0\ref\zd4_voroshilov.dll
+C:\Users\jiami\source\repos\zd4_voroshilov-zd5\zd4_voroshilov\bin\Debug\netstandard2.0\zd4_voroshilov.pdb
+C:\Users\jiami\source\repos\zd4_voroshilov-zd5\zd4_voroshilov\obj\Debug\netstandard2.0\zd4_voroshilov.csproj.AssemblyReference.cache
+C:\Users\jiami\source\repos\zd4_voroshilov-zd5\zd4_voroshilov\obj\Debug\netstandard2.0\zd4_voroshilov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jiami\source\repos\zd4_voroshilov-zd5\zd4_voroshilov\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\jiami\source\repos\zd4_voroshilov-zd5\zd4_voroshilov\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\jiami\source\repos\zd4_voroshilov-zd5\zd4_voroshilov\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\Users\jiami\source\repos\zd4_voroshilov-zd5\zd4_voroshilov\obj\Debug\netstandard2.0\Page2.xaml.g.cs
+C:\Users\jiami\source\repos\zd4_voroshilov-zd5\zd4_voroshilov\obj\Debug\netstandard2.0\Welcome.xaml.g.cs
+C:\Users\jiami\source\repos\zd4_voroshilov-zd5\zd4_voroshilov\obj\Debug\netstandard2.0\styles.css.g.cs
+C:\Users\jiami\source\repos\zd4_voroshilov-zd5\zd4_voroshilov\obj\Debug\netstandard2.0\zd4_voroshilov.AssemblyInfoInputs.cache
+C:\Users\jiami\source\repos\zd4_voroshilov-zd5\zd4_voroshilov\obj\Debug\netstandard2.0\zd4_voroshilov.AssemblyInfo.cs
+C:\Users\jiami\source\repos\zd4_voroshilov-zd5\zd4_voroshilov\obj\Debug\netstandard2.0\zd4_voroshilov.csproj.CoreCompileInputs.cache
+C:\Users\jiami\source\repos\zd4_voroshilov-zd5\zd4_voroshilov\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\jiami\source\repos\zd4_voroshilov-zd5\zd4_voroshilov\obj\Debug\netstandard2.0\zd4_voroshilov.dll
+C:\Users\jiami\source\repos\zd4_voroshilov-zd5\zd4_voroshilov\obj\Debug\netstandard2.0\refint\zd4_voroshilov.dll
+C:\Users\jiami\source\repos\zd4_voroshilov-zd5\zd4_voroshilov\obj\Debug\netstandard2.0\zd4_voroshilov.pdb

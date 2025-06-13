@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="zd4_voroshilov.Welcome">
+    <ContentPage.Resources>
+        <StyleSheet Source="/styles.css" />
+    </ContentPage.Resources>
+
+    <StackLayout Spacing="30">
+        <Label x:Name="WelcomeText" StyleId="header" Text="Welcome"/>
+        <StackLayout StyleId="loginbar">
+            <Entry x:Name="Username" 
+                   Placeholder="Username" 
+                   StyleId="entry" 
+                   PlaceholderColor="Gray"/>
+            <Entry x:Name="Password" 
+                   Placeholder="Password" 
+                   StyleId="entry" 
+                   IsPassword="True" 
+                   PlaceholderColor="Gray" />
+        </StackLayout>
+        <Button x:Name="Button" 
+                StyleId="button" 
+                Text="Sign in" 
+                TextTransform="None"
+                Clicked="OnButtonClicked"/>
+        
+        <StackLayout StyleId="bottombar" 
+                     Orientation="Horizontal">
+            <CheckBox x:Name="Remember"/>
+            <Label StyleId="bottomremember" 
+                   x:Name="RememberLabel" 
+                   Text="Remember me"/>
+            <Label StyleId="bottomforgot" 
+                   x:Name="Forgot" 
+                   Text="I forgot!"/>
+        </StackLayout>
+        
+    </StackLayout>
+</ContentPage>
