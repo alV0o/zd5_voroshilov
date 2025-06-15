@@ -18,12 +18,15 @@ namespace zd4_voroshilov
             InitializeComponent();
             Title = $"Привет, {name}";
 
+            //подключение CSS
             this.Resources.Add(StyleSheet.FromResource("styles.css", IntrospectionExtensions.GetTypeInfo(typeof(MainPage)).Assembly));
 
+            //инициализация страниц
             Page1 page1 = new Page1();
             Page2 page2 = new Page2();
             Page3 page3 = new Page3();
 
+            //проверка на третью страницу
             CurrentPageChanged += (s, e) =>
             {
                 if (CurrentPage == page3)
