@@ -1,0 +1,45 @@
+^contentpage{
+    padding: 20;
+}
+#header {
+    text-align:center;
+    font-size:25;
+    font-weight:bold;
+    color:white;
+    padding:30;
+}
+#loginbar{
+    background-color: whitesmoke;
+    color: black;
+}
+#entry{
+    padding-left:15;
+    padding-top: 10;
+    background-color: white;
+}
+#button{
+    background-color: orangered;
+    font-size:20
+}
+#bottombar{
+    color: white;
+}
+#bottomremember{
+    margin-top:5;
+}
+#bottomforgot {
+    margin-top: 5;
+    margin-left: 125;
+}
+#info{
+    font-size: 20;
+    font-weight: bold;
+    text-align:center;
+    text-decoration: underline;
+    margin-bottom: 20;
+}
+#blank {
+    font-size: 15;
+    font-weight: bold;
+    text-decoration: underline;
+}

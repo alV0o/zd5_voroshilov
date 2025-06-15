@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="zd4_voroshilov.Page3"
+             Padding="30,30,30,30">
+
+    <StackLayout>
+        <StackLayout>
+            <Label StyleId="info" Text="Информация"/>
+        </StackLayout>
+
+        <StackLayout>
+            <Grid>
+                <Label StyleId="blank" Text="Вид платежа:" Grid.Column="0"/>
+                <Label x:Name="TypeOfPay" Text="Отсутствует" Grid.Column="1"/>
+            </Grid>
+            
+            <Grid>
+                <Label StyleId="blank" Text="Расшифровка:" Grid.Column="0"/>
+                <Label x:Name="TranscriptOfType" Text="Отсутствует" Grid.Column="1"/>
+            </Grid>
+
+            <Grid>
+                <Label StyleId="blank" Text="Максимальное значение процентной ставки:" Grid.Column="0"/>
+                <Label x:Name="MaxValueOfSlider" Text="Отсутствует" Grid.Column="1"/>
+            </Grid>
+            
+            <Grid>
+                <Label StyleId="blank" Text="Текущее значение процентной ставки:" Grid.Column="0"/>
+                <Label x:Name="NowValueOfSlider" Text="Отсутствует" Grid.Column="1"/>
+            </Grid>
+            
+        </StackLayout>
+        
+        
+    </StackLayout>
+</ContentPage>
