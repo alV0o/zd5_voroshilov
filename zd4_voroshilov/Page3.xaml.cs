@@ -17,6 +17,7 @@ namespace zd4_voroshilov
             InitializeComponent();
         }
 
+        //установка данных
         public void SetData(string type, int maxValue, int nowValue)
         {
             TypeOfPay.Text = type;
