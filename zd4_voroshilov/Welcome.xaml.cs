@@ -17,8 +17,10 @@ namespace zd4_voroshilov
 			InitializeComponent ();
 		}
 
+        //функция на нажатие кнопки
         private async void OnButtonClicked(object sender, EventArgs e)
         {
+            //проверка на пустые строки
             if (!string.IsNullOrEmpty(Username.Text) && !string.IsNullOrEmpty(Password.Text))
             {
                 var newPage = new MainPage(Username.Text);
