@@ -43,3 +43,32 @@
     font-weight: bold;
     text-decoration: underline;
 }
+.dropdown {
+    background-color: #449F44;
+    padding: 0;
+    border-radius: 10;
+}
+#switch{
+    color: black;
+    margin-top: 10;
+}
+#slider1 {
+    margin-right: 50;
+    width:225;
+}
+#slider2{
+    margin-right: 120;
+}
+#static {
+    background-color: #459F45;
+    border-radius:30;
+    margin-top:30;
+}
+#hover {
+    background-color: #388138;
+    border-radius: 30;
+}
+#pressed {
+    background-color: #2E6D2A;
+    border-radius: 30;
+}

@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -17,6 +16,14 @@ namespace zd4_voroshilov
             InitializeComponent();
         }
 
+        public Page3(string type, int maxValue, int nowValue)
+        {
+            InitializeComponent();
+
+            SetData(type, maxValue, nowValue);
+        }
+
+        //установка данных
         public void SetData(string type, int maxValue, int nowValue)
         {
             TypeOfPay.Text = type;

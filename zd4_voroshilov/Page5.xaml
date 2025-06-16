@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="zd4_voroshilov.Page5">
+    
+    <StackLayout>
+        <Frame StyleClass="dropdown">
+            <Picker x:Name="DropDown">
+                <Picker.Items>
+                    <x:String>Аннуитетный</x:String>
+                    <x:String>Дифференцированный</x:String>
+                </Picker.Items>
+            </Picker>
+        </Frame>
+
+        <Button x:Name="ButtonStatic" Text="Static" StyleId="static" Clicked="OnClickStatic"/>
+        <Button x:Name="ButtonHover" Text="Hover" StyleId="hover" Clicked="OnClickHover"/>
+        <Button x:Name="ButtonPressed" Text="Pressed" StyleId="pressed" Clicked="OnClickPressed"/>
+        <Slider ThumbColor="#00000000" MinimumTrackColor="#459F45" Minimum="0" Maximum="100"/>
+        <Slider x:Name ="SliderProcents" ThumbColor="White" MinimumTrackColor="#459F45" Minimum="0" Maximum="100"/>
+    </StackLayout>
+    
+</ContentPage>

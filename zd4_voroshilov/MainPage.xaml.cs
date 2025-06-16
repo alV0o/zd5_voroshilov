@@ -18,26 +18,8 @@ namespace zd4_voroshilov
             InitializeComponent();
             Title = $"Привет, {name}";
 
+            //подключение CSS
             this.Resources.Add(StyleSheet.FromResource("styles.css", IntrospectionExtensions.GetTypeInfo(typeof(MainPage)).Assembly));
-
-            Page1 page1 = new Page1();
-            Page2 page2 = new Page2();
-            Page3 page3 = new Page3();
-
-            CurrentPageChanged += (s, e) =>
-            {
-                if (CurrentPage == page3)
-                {
-                    string type = page1.Type;
-                    int maxValue = page1.MaxValue;
-                    int nowValue = page1.NowValue;
-
-                    page3.SetData(type, maxValue, nowValue);
-                }
-            };
-            Children.Add(page1);
-            Children.Add(page2);
-            Children.Add(page3);
         }
     }
 }

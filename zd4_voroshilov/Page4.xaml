@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="zd4_voroshilov.Page4">
+
+    <StackLayout>
+        <StackLayout StyleClass="switches" Spacing="20">
+            <Switch StyleId="switch" Scale="1.5" HorizontalOptions="Center"/>
+
+            <StackLayout Orientation="Horizontal">
+                <Slider StyleId="slider1" ThumbColor="#00000000" Grid.Column="0"/>
+                
+                <StackLayout>
+                    <RadioButton/>
+                    <RadioButton/>
+                </StackLayout>
+                
+            </StackLayout>
+
+            <Slider StyleId="slider2"/>
+
+            <StackLayout Orientation="Horizontal">
+                <Slider StyleId="slider1" Grid.Column="0"/>
+
+                <StackLayout>
+                    <CheckBox/>
+                    <CheckBox/>
+                </StackLayout>
+
+            </StackLayout>
+
+        </StackLayout>
+        
+    </StackLayout>
+
+</ContentPage>

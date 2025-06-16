@@ -40,6 +40,5 @@
             <Label x:Name="AllSum" Text="Общая сумма:" FontSize="15"/>
             <Label x:Name="OverPayment" Text="Переплата:" FontSize="15"/>
         </StackLayout>
-        
     </StackLayout>
 </ContentPage>

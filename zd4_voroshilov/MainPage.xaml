@@ -5,4 +5,10 @@
              x:Class="zd4_voroshilov.MainPage"
              Title="CalculatorPage">
 
+    <CarouselPage.Children>
+        <local:Page1/>
+        <local:Page2/>
+        <local:Page4/>
+        <local:Page5/>
+    </CarouselPage.Children>
 </CarouselPage>

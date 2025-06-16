@@ -4,6 +4,10 @@
              x:Class="zd4_voroshilov.Page3"
              Padding="30,30,30,30">
 
+    <ContentPage.Resources>
+        <StyleSheet Source="/styles.css" />
+    </ContentPage.Resources>
+
     <StackLayout>
         <StackLayout>
             <Label StyleId="info" Text="Информация"/>
